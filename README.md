@@ -1,9 +1,9 @@
 # Data URI Generator
 
-A simple static web app that converts input text into a Base64-encoded Data URI with MIME type `text/plain`.
+A simple static web app that converts input text into a Base64-encoded Data URI with MIME type `text/plain`. Now also supports uploading files to generate their Data URI with correct MIME type.
 
 ## Usage
-1. Enter your text into the textarea.
+1. Enter your text into the textarea OR upload a file.
 2. Click the "Generate Data URI" button.
 3. The resulting Data URI will appear in the read-only output field.
 4. Use the "Copy" button to copy the Data URI to clipboard.
