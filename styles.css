@@ -25,6 +25,9 @@ textarea {
   margin-top: 5px;
   resize: vertical;
 }
+input[type="file"] {
+  margin-top: 5px;
+}
 .button-group {
   margin-top: 15px;
   display: flex;
